@@ -34,8 +34,8 @@
             if ($(this).text() == "Alle Produkte") {
                 $(this).text("All Products");
             }
-            if ($(this).text() == "Publikationen aus der Universit\u00e4t") {
-                $(this).text("Publications from the University");
+            if ($(this).text() == "Publikationen der G\00f6ttingen Campus") {
+                $(this).text("Publications of the G\00f6ttingen Campus");
             }
             if ($(this).text() == "Reihen") {
                 $(this).text("Series");
@@ -58,6 +58,9 @@
             }
             if ($(this).text() == "Biologie") {
                 $(this).text("Biology");
+            }
+            if ($(this).text() == "Erziehungswissenschaft") {
+                $(this).text("Educational Science");
             }
             if ($(this).text() == "Ethnologie") {
                 $(this).text("Ethnology");
@@ -115,6 +118,15 @@
             }
             if ($(this).text() == "Sozialwissenschaften") {
                 $(this).text("Social sciences");
+            }
+            if ($(this).text() == "Soziologie") {
+                $(this).text("Sociology");
+            }
+            if ($(this).text() == "Sportwissenschaften") {
+                $(this).text("Sports Sciences");
+            }
+            if ($(this).text() == "Theologie") {
+                $(this).text("Theology");
             }
             if ($(this).text() == "Umweltgeschichte") {
                 $(this).text("Environmental history");

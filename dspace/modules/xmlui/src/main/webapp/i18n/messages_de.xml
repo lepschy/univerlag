@@ -4260,7 +4260,7 @@ in einem double-blind Peer-Review-Verfahren. Neben Artikeln werden Rezensionen u
     <message key="xmlui.ArtifactBrowser.Regular.Community">Verlagsprogramm</message>
     <message key="xmlui.ArtifactBrowser.Navigation.home.collection">Fachgebiet</message>
     <message key="xmlui.ArtifactBrowser.Navigation.home.head">Verlagsprogramm</message>
-    <message key="xmlui.ArtifactBrowser.Navigation.special.collection">Publikationen aus der Universität</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.special.collection">Publikationen des Göttingen Campus</message>
     <message key="xmlui.ArtifactBrowser.Navigation.more.offers">Weitere Angebote</message>
     <message key="xmlui.ArtifactBrowser.Navigation.series.collection">Reihen</message>
     <message key="xmlui.ArtifactBrowser.Navigation.ring.lectures">Ringvorlesungen der Universität</message>

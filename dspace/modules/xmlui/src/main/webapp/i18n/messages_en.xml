@@ -4256,7 +4256,7 @@
     <message key="xmlui.ArtifactBrowser.Regular.Community">Regular Publications</message>
     <message key="xmlui.ArtifactBrowser.Navigation.home.collection">Subjects</message>
     <message key="xmlui.ArtifactBrowser.Navigation.home.head">Publishing Catalog</message>
-    <message key="xmlui.ArtifactBrowser.Navigation.special.collection">Publications from the University</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.special.collection">Publications of the Göttingen Campus</message>
     <message key="xmlui.ArtifactBrowser.Navigation.more.offers">More Offers</message>
     <message key="xmlui.ArtifactBrowser.Navigation.series.collection">Series</message>
     <message key="xmlui.ArtifactBrowser.Navigation.ring.lectures">Lecture Series at the University</message>
